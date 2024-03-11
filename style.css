@@ -2,3 +2,6 @@
     background-color:#10b981;
     color: white;
 }
+.btn:hover{
+    background-color:#2dd4bf;
+}
